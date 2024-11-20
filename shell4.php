@@ -1,3 +1,9 @@
+<!--
+THIS SHELL IN SAFE VERSION 
+i was remove part of connection with shell dev, so I think it's free to use.
+Thanks, to the first developer of this shell :)
+-->
+
 <!DOCTYPE html>
 <html>
 <head>

